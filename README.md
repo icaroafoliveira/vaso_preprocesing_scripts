@@ -42,5 +42,19 @@ PAR_VASO
 4.) type **par_VASO** to check all the participants and folders that were stored
 ```matlab
 par_VASO
+
+         SPM_path: 'C:\spm12\spm12'
+              root: 'D:\scripts\data_test'
+             nsubs: 1
+          subjects: {'sub1'}
+      structfolder: 'T123DEPI'
+        confilters: 'funct'
+         nonnulled: 'BOLD'
+            nulled: 'VASO'
+          pureVASO: 'VASOp'
+    estimate_TRIAL: 1
+         structdir: {'D:\scripts\data_test\sub1\T123DEPI'}
+           condirs: {'D:\scripts\data_test\sub1\funct'}
+
 ```
 
