@@ -65,7 +65,7 @@ par_VASO
 ```
 
 5.) Type **MoCo** to perform the motion correction on your group of participants
-- The output is two 4D nifit data **rBOLD.nii** and **rVASO.nii**
+- The output -> 4D nifti data **rBOLD.nii** and **rVASO.nii**
 
 6.) Type **BoCo** to perform the bold correction on your group of participants
 - The output is a 4D nifti data **VASOp.nii**
