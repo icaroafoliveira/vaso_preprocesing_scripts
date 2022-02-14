@@ -4,7 +4,7 @@ Scripts used to perform motion correction and bold correction for VASO-CBV and B
 These scripts are based on SPM12 from Matlab.
 
 - PAR_VASO: Set all parameters to store folders and filenames of your VASO-CBV and BOLD dataset
-- MoCo: Perform the SPM12 motion correction (estimate & realiagn) both VASO-CBV and BOLD automatically
+- MoCo: Perform the SPM12 motion correction (estimate & reslice) both VASO-CBV and BOLD automatically
 - BoCo: BOLD correction scheme in the VASO-CBV images. Based on Huber, L., Ivanov, D., Krieger, S.N., Streicher, M.N., Mildner, T., Poser, B.A., Möller, H.E., Turner, R., 2014. Slab-selective, BOLD-corrected VASO at 7 tesla provides measures of cerebral blood volume reactivity with high signal-to-noise ratio. Magn. Reson. Med. 72, 137–148. https://doi.org/10.1002/mrm.24916
 
 ## Citation (where I used this scrits)
@@ -32,9 +32,9 @@ mkdir funct
 mkdir T123EPI
 ```
 
-2.) Move the VASO and BOLD data to the funct directory
+2.) Move the VASO and BOLD data to the funct directory (add image)
 
-3.) type **PAR_VASO** and select the project folder 
+3.) type **PAR_VASO** and select the project folder  (add image)
 ```matlab
 PAR_VASO
 ```
