@@ -1,7 +1,8 @@
-# vaso_preprocesing_scripts
+## Preprocesing scripts for 7T VASO (SS-SI VASO)
 Scripts used to perform motion correction and bold correction for VASO-CBV and BOLD data from the SS-SI VASO scheme.
 
 These scripts are based on SPM12 from Matlab.
+
 - PAR_VASO: Set all parameters to store folders and filenames of your VASO-CBV and BOLD dataset
 - MoCo: Perform the SPM12 motion correction (estimate & realiagn) both VASO-CBV and BOLD automatically
 - BoCo: BOLD correction scheme in the VASO-CBV images. Based on Huber, L., Ivanov, D., Krieger, S.N., Streicher, M.N., Mildner, T., Poser, B.A., Möller, H.E., Turner, R., 2014. Slab-selective, BOLD-corrected VASO at 7 tesla provides measures of cerebral blood volume reactivity with high signal-to-noise ratio. Magn. Reson. Med. 72, 137–148. https://doi.org/10.1002/mrm.24916
@@ -16,7 +17,7 @@ These scripts are based on SPM12 from Matlab.
 
 ## How to use
 
-1.) I used a fixed folder/filename format, organized as it follows:
+1.) Here I use a fixed folder/filename format, organized as it follows:
 
  - project -> participants(subs) -> funct/anatomical data(T123DEPI)
 
