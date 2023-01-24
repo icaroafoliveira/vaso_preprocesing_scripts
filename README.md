@@ -10,6 +10,8 @@ These scripts are based on SPM12 (Matlab).
 ## Citation (I used this batch script in these papers)
 - Oliveira, Í.A.F., van der Zwaag, W., Raimondo, L., Dumoulin, S.O., Siero, J.C.W., 2021. Comparing hand movement rate dependence of cerebral blood volume and BOLD responses at 7T. Neuroimage 226, 117623. https://doi.org/10.1016/j.neuroimage.2020.117623
 - Oliveira, Í.A.F., Cai, Y., Hofstetter, S., Siero, J.C.W., van der Zwaag, W., Dumoulin, S.O., 2022. Comparing BOLD and VASO-CBV population receptive field estimates in human visual cortex. Neuroimage 248, 118868. https://doi.org/10.1016/j.neuroimage.2021.118868
+- Oliveira, Í. A. F. de, Siero, J. C.W., Dumoulin, S. O., & Zwaag, W. van der. (2022). Improved selectivity in 7t digit mapping using VASO‑CBV.
+Brain Topography. https://doi.org/10.1007/s10548-022-00932-x
 
 ## Dependencies
 
